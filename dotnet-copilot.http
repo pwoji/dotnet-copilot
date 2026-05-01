@@ -1,0 +1,6 @@
+@dotnet_copilot_HostAddress = http://localhost:5106
+
+GET {{dotnet_copilot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\bin\Debug\net10.0\UserManagementApi.Domain.deps.json
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\bin\Debug\net10.0\UserManagementApi.Domain.dll
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\bin\Debug\net10.0\UserManagementApi.Domain.pdb
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\obj\Debug\net10.0\UserManagementApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\obj\Debug\net10.0\UserManagementApi.Domain.AssemblyInfoInputs.cache
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\obj\Debug\net10.0\UserManagementApi.Domain.AssemblyInfo.cs
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\obj\Debug\net10.0\UserManagementApi.Domain.csproj.CoreCompileInputs.cache
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\obj\Debug\net10.0\UserManagementApi.Domain.sourcelink.json
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\obj\Debug\net10.0\UserManagementApi.Domain.dll
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\obj\Debug\net10.0\refint\UserManagementApi.Domain.dll
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\obj\Debug\net10.0\UserManagementApi.Domain.pdb
+F:\experiments\dotnet-copilot\UserManagementApi.Domain\obj\Debug\net10.0\ref\UserManagementApi.Domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "exFeVKGuBPY=",
+  "success": true,
+  "projectFilePath": "F:\\experiments\\dotnet-copilot\\UserManagementApi.Application\\UserManagementApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patwo\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

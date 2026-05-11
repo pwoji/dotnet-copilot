@@ -1,0 +1,9 @@
+F:\experiments\dotnet-copilot\UserManagementApi.Api\obj\Debug\net10.0\UserManagementApi.Api.csproj.AssemblyReference.cache
+F:\experiments\dotnet-copilot\UserManagementApi.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\experiments\dotnet-copilot\UserManagementApi.Api\obj\Debug\net10.0\UserManagementApi.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\experiments\dotnet-copilot\UserManagementApi.Api\obj\Debug\net10.0\UserManagementApi.Api.AssemblyInfoInputs.cache
+F:\experiments\dotnet-copilot\UserManagementApi.Api\obj\Debug\net10.0\UserManagementApi.Api.AssemblyInfo.cs
+F:\experiments\dotnet-copilot\UserManagementApi.Api\obj\Debug\net10.0\UserManagementApi.Api.csproj.CoreCompileInputs.cache
+F:\experiments\dotnet-copilot\UserManagementApi.Api\obj\Debug\net10.0\UserManagementApi.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\experiments\dotnet-copilot\UserManagementApi.Api\obj\Debug\net10.0\UserManagementApi.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\experiments\dotnet-copilot\UserManagementApi.Api\obj\Debug\net10.0\UserManagementApi.Api.sourcelink.json

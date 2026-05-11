@@ -1,0 +1,9 @@
+F:\experiments\dotnet-copilot\obj\Debug\net10.0\dotnet-copilot.csproj.AssemblyReference.cache
+F:\experiments\dotnet-copilot\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\experiments\dotnet-copilot\obj\Debug\net10.0\dotnet-copilot.GeneratedMSBuildEditorConfig.editorconfig
+F:\experiments\dotnet-copilot\obj\Debug\net10.0\dotnet-copilot.AssemblyInfoInputs.cache
+F:\experiments\dotnet-copilot\obj\Debug\net10.0\dotnet-copilot.AssemblyInfo.cs
+F:\experiments\dotnet-copilot\obj\Debug\net10.0\dotnet-copilot.csproj.CoreCompileInputs.cache
+F:\experiments\dotnet-copilot\obj\Debug\net10.0\dotnet-copilot.MvcApplicationPartsAssemblyInfo.cs
+F:\experiments\dotnet-copilot\obj\Debug\net10.0\dotnet-copilot.MvcApplicationPartsAssemblyInfo.cache
+F:\experiments\dotnet-copilot\obj\Debug\net10.0\dotnet-copilot.sourcelink.json

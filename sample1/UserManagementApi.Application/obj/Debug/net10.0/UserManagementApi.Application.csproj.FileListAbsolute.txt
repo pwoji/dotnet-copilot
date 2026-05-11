@@ -1,0 +1,16 @@
+F:\experiments\dotnet-copilot\UserManagementApi.Application\bin\Debug\net10.0\UserManagementApi.Application.deps.json
+F:\experiments\dotnet-copilot\UserManagementApi.Application\bin\Debug\net10.0\UserManagementApi.Application.dll
+F:\experiments\dotnet-copilot\UserManagementApi.Application\bin\Debug\net10.0\UserManagementApi.Application.pdb
+F:\experiments\dotnet-copilot\UserManagementApi.Application\bin\Debug\net10.0\UserManagementApi.Domain.dll
+F:\experiments\dotnet-copilot\UserManagementApi.Application\bin\Debug\net10.0\UserManagementApi.Domain.pdb
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\UserManagementApi.Application.csproj.AssemblyReference.cache
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\UserManagementApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\UserManagementApi.Application.AssemblyInfoInputs.cache
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\UserManagementApi.Application.AssemblyInfo.cs
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\UserManagementApi.Application.csproj.CoreCompileInputs.cache
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\UserManagementApi.Application.sourcelink.json
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\UserMana.CC045887.Up2Date
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\UserManagementApi.Application.dll
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\refint\UserManagementApi.Application.dll
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\UserManagementApi.Application.pdb
+F:\experiments\dotnet-copilot\UserManagementApi.Application\obj\Debug\net10.0\ref\UserManagementApi.Application.dll
